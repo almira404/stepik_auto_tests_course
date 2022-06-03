@@ -1,5 +1,7 @@
 from selenium import webdriver
-import time 
+import time
+#задание на поиск элементов с помощью Selenium
+
 link = "http://suninjuly.github.io/simple_form_find_task.html"
 
 try:
